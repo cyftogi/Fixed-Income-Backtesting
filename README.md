@@ -12,8 +12,9 @@ A backtesting framework customized for the credit market (Cash Bond, CDX)
   · Extendability: can quickly incorporate more hedging tools & analysis
   
   
-# Future improvements: 
-To allow dynamic testing
+# Future Improvements: 
+· To allow dynamic testing
+· Return attribution to each asset class involved
 
 
 
