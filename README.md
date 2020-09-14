@@ -1,5 +1,5 @@
 # Fixed-Income-Backtesting
-A backtesting framework customized for the credit market (Cash Bond, CDX)
+A backtesting framework customized for the credit market
 
 1. Most raw data is fetched from Bloomberg terminal with tia package 
   (https://github.com/bpsmith/tia)
