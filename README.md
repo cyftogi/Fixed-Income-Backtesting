@@ -11,7 +11,8 @@ A backtesting framework customized for the credit market (Cash Bond, CDX)
                  they can also change the bond portfolio by replacing the data files in the "prices" folder
   · Extendability: can quickly incorporate more hedging tools & analysis
   
-Future improvements: 
+  
+# Future improvements: 
 To allow dynamic testing
 
 
