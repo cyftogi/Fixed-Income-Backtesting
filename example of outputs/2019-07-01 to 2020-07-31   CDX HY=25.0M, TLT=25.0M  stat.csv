@@ -1,0 +1,20 @@
+,Bond,Hedge,Total
+Total PnL,-1771638.3333,9117065.7098,7198842.2932
+Stdev(PnL),134259.8258,544927.0569,534691.6611
+Return (%),-0.0519,0.1742,0.2227
+Daily Volatility,0.0043,0.0098,0.0146
+Annualized Vol,0.0682,0.1550,0.2324
+,,,
+Notional,34139645.8333,50000000.0000,-15860354.1667
+PnL / Notional,-0.0519,0.1823,-0.4539
+Stdev / Notional,0.0039,0.0109,-0.0337
+ ,,,
+Correlation by PnL,,-0.2010,
+Correlation by Return,,-0.2046,
+  ,,,
+Same direction,142.0000,,
+Same direction %,0.5000,,
+   ,,,
+Scale of hedge notional to same as bond,,6225067.8875,
+Beta to Bond,,-0.4655,
+P value,,0.0005,
