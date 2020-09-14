@@ -12,6 +12,15 @@ A backtesting framework customized for the credit market
      - They can also change the bond portfolio by replacing the data files in the "prices" folder                   
    - Extendability: 
      - can quickly incorporate more hedging tools & analysis
+     
+4. Hedging Instruments:
+   - VXX: iPath Series B S&P 500 VIX Short-Term Futures ETN
+   - HYG: iShares iBoxx $ High Yield Corporate Bond ETF
+   - EMB: iShares J.P. Morgan USD Emerging Markets Bond ETF
+   - CDX HY: Markit’s North American High Yield CDX Index
+   - CDX EM: Markit’s North American Investment Grade CDX Index
+   - CDX Asia IG: iTraxx Asia ex-Japan index (investment grade)
+   - TLT: iShares 20+ Year Treasury Bond ETF
   
   
 # Future Improvements: 
