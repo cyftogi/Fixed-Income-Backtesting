@@ -18,7 +18,7 @@ A backtesting framework customized for the credit market
    - HYG: iShares iBoxx $ High Yield Corporate Bond ETF
    - EMB: iShares J.P. Morgan USD Emerging Markets Bond ETF
    - CDX HY: Markit’s North American High Yield CDX Index
-   - CDX EM: Markit’s North American Investment Grade CDX Index
+   - CDX IG: Markit’s North American Investment Grade CDX Index
    - CDX Asia IG: iTraxx Asia ex-Japan index (investment grade)
    - TLT: iShares 20+ Year Treasury Bond ETF
   
